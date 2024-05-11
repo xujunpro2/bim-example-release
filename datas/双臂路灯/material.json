@@ -1,0 +1,91 @@
+[{
+    "materialId": -1,
+    "cname": null,
+    "name": "默认",
+    "color": {
+        "r": 0.46875,
+        "g": 0.46875,
+        "b": 0.46875,
+        "a": 1.0
+    },
+    "tint": null,
+    "texture": null,
+    "bump": null,
+    "exist": false,
+    "type": ""
+}, {
+    "materialId": -100,
+    "cname": null,
+    "name": "植物",
+    "color": {
+        "r": 0.0,
+        "g": 0.64313725490196083,
+        "b": 0.0,
+        "a": 1.0
+    },
+    "tint": null,
+    "texture": null,
+    "bump": null,
+    "exist": false,
+    "type": ""
+}, {
+    "materialId": -101,
+    "cname": null,
+    "name": "风管",
+    "color": {
+        "r": 1.0,
+        "g": 1.0,
+        "b": 1.0,
+        "a": 1.0
+    },
+    "tint": null,
+    "texture": null,
+    "bump": null,
+    "exist": false,
+    "type": "metal"
+}, {
+    "materialId": 4980,
+    "cname": "未指定",
+    "name": "M_电线杆的材质_036",
+    "color": {
+        "r": 0.68359375,
+        "g": 0.68359375,
+        "b": 0.68359375,
+        "a": 1.0
+    },
+    "tint": null,
+    "texture": null,
+    "bump": null,
+    "exist": false,
+    "type": ""
+}, {
+    "materialId": 4994,
+    "cname": "未指定",
+    "name": "M_电线的材质_036",
+    "color": {
+        "r": 0.21484375,
+        "g": 0.21484375,
+        "b": 0.21484375,
+        "a": 1.0
+    },
+    "tint": null,
+    "texture": null,
+    "bump": null,
+    "exist": false,
+    "type": ""
+}, {
+    "materialId": 4996,
+    "cname": "未指定",
+    "name": "M_灯罩的材质_036",
+    "color": {
+        "r": 0.47265625,
+        "g": 0.67578125,
+        "b": 0.98046875,
+        "a": 0.099999999999999978
+    },
+    "tint": null,
+    "texture": null,
+    "bump": null,
+    "exist": false,
+    "type": ""
+}]

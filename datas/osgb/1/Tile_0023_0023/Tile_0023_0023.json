@@ -1,0 +1,32 @@
+{
+    "asset": {
+        "generatetool": "osgb2tiles4@www.cesiumlab.com",
+        "version": "1.0"
+    },
+    "geometricError": 1.0005175349149,
+    "refine": "REPLACE",
+    "root": {
+        "boundingVolume": {
+            "box": [
+                21.2404786217958,
+                -9.94263303792104,
+                0.792396675795317,
+                13.6517691612244,
+                0,
+                0,
+                0,
+                13.6536707878113,
+                0,
+                0,
+                0,
+                11.5814547538757
+            ]
+        },
+        
+        "content": {
+            "uri": "Tile_0023_0023.b3dm"
+        },
+        "geometricError": 1.0005175349149,
+        "refine": "REPLACE"
+    }
+}
